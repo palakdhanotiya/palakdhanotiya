@@ -132,25 +132,16 @@ I --> J[Build Global Gaming & AI Ecosystem 🌍]
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/palak-dhanotiya">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="YOUR_GITHUB_URL">
+<a href="github.com/palakdhanotiya">
 <img src="https://skillicons.dev/icons?i=github" />
-</a>
 
-<a href="YOUR_INSTAGRAM_URL">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-<a href="YOUR_TWITTER_URL">
-<img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 
 </p>
-
-> Replace the placeholder links with your actual social profiles.
 
 ---
 
