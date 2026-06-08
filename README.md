@@ -1,8 +1,10 @@
-
 # <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+There!+I'm+Palak+Dhanotiya+%F0%9F%91%8B;BTech+Computer+Science+Engineering+Student;Future+Founder+of+Palynx+Origin+Prana;Building+Games+%7C+AI+%7C+Technology+%7C+Innovation;Dreaming+Big+and+Building+Bigger+%F0%9F%9A%80" alt="Typing SVG" />
 
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=palakdhanotiya&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+
+</div>
 
 ---
 
@@ -135,10 +137,11 @@ I --> J[Build Global Gaming & AI Ecosystem 🌍]
 
 <a href="github.com/palakdhanotiya">
 <img src="https://skillicons.dev/icons?i=github" />
-
 </a>
 
 </p>
+
+> Replace the placeholder links with your actual social profiles.
 
 ---
 
