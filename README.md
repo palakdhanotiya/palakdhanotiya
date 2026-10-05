@@ -1,8 +1,8 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+There!+I'm+Palak+Dhanotiya+%F0%9F%91%8B;BTech+Computer+Science+Engineering+Student;Future+Founder+of+Palynx+Origin+Prana;Building+Games+%7C+AI+%7C+Technology+%7C+Innovation;Dreaming+Big+and+Building+Bigger+%F0%9F%9A%80" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Hi+There!+I'm+Palak+Dhanotiya+%F0%9F%91%8B;BTech+Computer+Science+Engineering+Student;Building+Palynx+%F0%9F%8C%8C;Game+Development+%7C+AI+%7C+Cybersecurity;Learning+Today+Building+Tomorrow+%F0%9F%9A%80" alt="Typing SVG" />
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=palakdhanotiya&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=palakdhanotiya&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="profile views" />
 
 </div>
 
@@ -10,42 +10,73 @@
 
 # 🎮 Welcome to My Digital Universe
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJjNmM2M2Q5OWM5YzY4MjU4N2U5MzM2NjNmMWY0ZmM2ZGI4NjM4MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif"/>
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif"/>
 
 ## 👩‍💻 About Me
 
-Hello! I'm **Palak Dhanotiya**, a passionate **BTech Computer Science Engineering Student** from **India 🇮🇳**.
+Hi, I'm **Palak Dhanotiya**, a BTech Computer Science Engineering student from India 🇮🇳.
 
-I'm on a mission to transform ideas into reality through:
+I enjoy building projects that combine technology, creativity, and problem-solving. My interests span game development, artificial intelligence, cybersecurity, software engineering, and entrepreneurship.
 
-🎮 Game Development
-🤖 Artificial Intelligence
-💻 Software Development
-🚀 Technology Entrepreneurship
-
-My long-term vision is to build:
-
-# 🌌 Palynx Origin Prana
-
-A futuristic gaming and AI-powered technology company focused on creating innovative digital experiences, intelligent systems, and next-generation products.
+Currently, I'm focused on strengthening my technical foundations while building projects, conducting research, and working toward my long-term vision.
 
 ---
 
-## 🌱 Current Learning Journey
+## 🌌 Building Palynx
+
+**Palynx** is my long-term vision for creating innovative games, intelligent products, and impactful technology solutions.
 
 ```text
-📚 Learning Progress
+Learn → Build → Launch → Scale
+```
 
-Python              ███████░░░
-Java                ██████░░░░
-HTML                ████████░░
-CSS                 ███████░░░
-JavaScript          █████░░░░░
-Git & GitHub        ███████░░░
-Game Development    ████░░░░░░
+---
 
-Mission:
-Build → Learn → Launch → Scale
+## 🎯 Current Focus
+
+🎮 Building a Unity-based Indie Game
+
+🔐 Researching Cybersecurity Risks of AI-Generated Code
+
+🌐 Learning Backend Development with Flask & Django
+
+🤖 Exploring Artificial Intelligence Fundamentals
+
+🚀 Building the foundation of Palynx
+
+📂 Expanding my GitHub portfolio through consistent projects
+
+---
+
+# 📚 Skills & Learning Journey
+
+## ✅ Completed Foundations
+
+```text
+Python
+Java
+C
+C++
+HTML
+CSS
+Git & GitHub
+Unity Basics
+Blender Basics
+Research Writing
+```
+
+## 🌱 Currently Learning
+
+```text
+Flask
+Django
+JavaScript
+Artificial Intelligence Fundamentals
+Cybersecurity Fundamentals
+Database Management Systems
+Software Engineering
+Advanced Unity Development
+Game Systems Design
 ```
 
 ---
@@ -55,93 +86,93 @@ Build → Learn → Launch → Scale
 ### 💻 Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css" />
 </p>
 
-### 🛠 Development Tools
+### 🌐 Web Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=flask,django,js" />
 </p>
 
-### 🚀 Future Technologies
+### 🛠 Tools & Technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,react,mysql,cpp" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
-### 🎮 Game Development Path
+### 🎮 Game Development
 
-```text
-Game Design
-Game Mechanics
-Unity
-Unreal Engine
-AI in Games
-Procedural Systems
-Indie Game Publishing
-```
+<p align="left">
+<img src="https://skillicons.dev/icons?i=unity,blender" />
+</p>
+
+### 🚀 Exploring
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ---
 
-# 🚀 Projects & Goals
+# 💼 Experience
 
-### Current Focus
+### Python Development Intern
 
-* 🔹 Building strong programming foundations
-* 🔹 Creating GitHub projects consistently
-* 🔹 Learning software development workflows
-* 🔹 Understanding AI fundamentals
-* 🔹 Exploring game development concepts
+**Sysslan (Remote Internship)**
 
-### Upcoming Goals
-
-* 🎮 Publish my first indie game
-* 🤖 Build AI-powered applications
-* 🌐 Create a professional portfolio
-* 📱 Launch useful software products
-* 🚀 Start building the foundation of Palynx Origin Prana
+* Completed Python development tasks and assignments
+* Worked with GitHub for version control and project management
+* Strengthened programming and problem-solving skills
+* Gained practical software development experience
 
 ---
 
-# 🛣️ Roadmap to Build Palynx Origin Prana
+# 🚀 Featured Projects
+
+### 🎮 Cozy Village Adventure Game
+
+A low-poly Unity game featuring exploration, collectibles, environmental storytelling, and village restoration mechanics using custom Blender-created assets.
+
+### 🔐 AI Code Security Research
+
+**Research Topic: Cybersecurity Risks of AI-Generated Code**
+
+Studying security vulnerabilities, risks, and secure coding practices associated with AI-assisted software development.
+
+### 🌐 Web Development Journey
+
+Building backend applications using Flask and Django while learning software architecture and deployment workflows.
+
+### 📂 GitHub Portfolio
+
+Maintaining multiple repositories covering Python development, programming fundamentals, research work, web technologies, and game development.
+
+---
+
+# 🛣️ Roadmap
 
 ```mermaid
 graph TD
 
-A[Learn Programming Fundamentals] --> B[Build Small Projects]
+A[Programming Fundamentals] --> B[Build Projects]
 
-B --> C[Create Portfolio]
-C --> D[Develop Indie Games]
+B --> C[Portfolio Development]
 
-D --> E[Publish Games]
+C --> D[Game Development]
+
+D --> E[Publish Indie Games]
+
 E --> F[Build Community]
 
-F --> G[Develop AI Products]
-G --> H[Create Startup Infrastructure]
+F --> G[AI & Cybersecurity Projects]
 
-H --> I[Launch Palynx Origin Prana 🚀]
+G --> H[Product Development]
 
-I --> J[Build Global Gaming & AI Ecosystem 🌍]
+H --> I[Launch Palynx]
+
+I --> J[Global Gaming & Technology Ecosystem]
 ```
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="www.linkedin.com/in/palak-dhanotiya">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="github.com/palakdhanotiya">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-</p>
-
-> Replace the placeholder links with your actual social profiles.
 
 ---
 
@@ -177,11 +208,28 @@ I --> J[Build Global Gaming & AI Ecosystem 🌍]
 
 ---
 
-# 🏆 Achievement Mindset
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/palak-dhanotiya">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/palakdhanotiya">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+---
+
+# 🏆 Mindset
 
 ```text
-Every great company started as an idea.
-Every successful founder started as a beginner.
+Every expert was once a beginner.
+Every project starts with an idea.
+Every company starts with a vision.
 
 Today I learn.
 Tomorrow I build.
@@ -190,30 +238,32 @@ One day I lead.
 
 ---
 
-# 💡 Vision Statement
+# 💡 Vision
 
-> "I don't just want to build software.
-> I want to create worlds, experiences, and technologies that inspire people."
+> I want to build games, products, and technologies that create meaningful experiences and solve real-world problems.
 
-### Future Vision
+### Long-Term Goals
 
-🎮 Games that people remember
+🎮 Build memorable games
 
-🤖 AI that solves real problems
+🤖 Create intelligent products
 
-🚀 Technology that creates impact
+🔐 Develop secure technology
 
-🌌 A company that pushes innovation forward
+🚀 Launch innovative ventures
+
+🌍 Contribute to the future of technology
 
 ---
 
 <div align="center">
 
-### ⭐ Building the Future, One Project at a Time ⭐
+## ⭐ Building the Future, One Project at a Time ⭐
 
-**Palak Dhanotiya**
-Future Founder • Developer • Creator • Innovator
+### Palak Dhanotiya
 
-🚀 Palynx Origin Prana — From Dream to Reality
+**Developer • Game Creator • Researcher • Builder**
+
+🌌 Building Palynx
 
 </div>
